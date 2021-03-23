@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fuK1NDQVEcCio0FhOQHo1+QG+i2bnyDpPnFu8rTxKtD244F/SRuGFNN/8m/dUcWeWa/QT85V5eSus71BAcw3TA==",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimento\\ProgramacaoAssincrona\\ProgramacaoAssincrona\\ProgramacaoAssincrona.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natalia.silva\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
