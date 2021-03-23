@@ -11,5 +11,7 @@ Um programa simples C#, que demonstra um exemplo prático de programação assí
 
 ## Resultados obtidos
 
-![Alt text](ProgramAsyncSync/ResultadoCmd/ResultCmdAsync.jpg?raw=true "Title")
+![Alt text](ResultadoCmd/ResultCmdAsync.jpg?raw=true "Title")
+![Alt text](ResultadoCmd/ResultCmdSync.jpg?raw=true "Title")
+
 
